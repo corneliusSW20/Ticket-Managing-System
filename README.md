@@ -3,7 +3,7 @@ A full-stack ticketing system that allows users to create, manage, and track sup
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Open-black?style=for-the-badge&logo=github)](https://corneliussw20.github.io/ticket-management-system/)
 
-🎯 Purpose
+# Objectives 🎯
 
 This project was built to gain hands-on experience with how modern ticketing systems function in real environments.
 
@@ -13,7 +13,8 @@ How tickets move through different lifecycle stages
 How teams prioritize and assign work
 How internal tools integrate knowledge bases to speed up resolution
 How support workflows are structured in practice
-🧠 What This Simulates
+
+# What This Simulates 🧠 
 
 This system models core behaviors found in production tools like internal support platforms:
 
@@ -22,8 +23,8 @@ Priority-based triaging (High, Medium, Low)
 Assignment workflows for team members
 Knowledge base linking for faster issue resolution
 Real-time filtering and status updates
-Operational dashboard with system metrics
-✨ Features
+Operational dashboard with system metrics 
+# Features
 Create and manage tickets dynamically
 Update ticket status and priority
 Assign tickets to team members
