@@ -1,9 +1,7 @@
 # Ticket Management System
 A full-stack ticketing system that allows users to create, manage, and track support tickets in real time. Designed to simulate real-world customer support workflows, the application includes authentication, role-based access (admin/user), and ticket status tracking.
 
-🚀 Live Demo
-
-👉 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Open-black?style=for-the-badge&logo=github)](https://corneliussw20.github.io/ticket-management-system/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open-black?style=for-the-badge&logo=github)](https://corneliussw20.github.io/ticket-management-system/)
 
 🎯 Purpose
 
